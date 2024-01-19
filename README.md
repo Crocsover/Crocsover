@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wrenczar Ramos</h1>
-<h3 align="center">Diligent Data Entry Specialist with a passion for transforming data into meaningful insights. Currently pursuing studies in Data Engineering to broaden skills in ETL processes, Python, and data architecture. Committed to leveraging data for informed decision-making. Open to opportunities at the intersection of data entry and engineering.</h3>
+<h3 align="center">Diligent Data Entry Specialist with a passion for transforming data into meaningful insights. Currently pursuing studies in Data Engineering to broaden skills in ETL processes, Data modelling, and data architecture. Committed to leveraging data for informed decision-making. Open to opportunities at the intersection of data entry and engineering.</h3>
 
 - 🔭 I’m currently working on **ETL pipeline(csv,excel,database))**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Data Frameworks, libraries and other tools</h3>
 
---- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
