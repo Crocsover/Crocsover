@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wrenczar Ramos</h1>
 <h3 align="center">Diligent Data Entry Specialist with a passion for transforming data into meaningful insights. Currently pursuing studies in Data Engineering to broaden skills in ETL processes, Data modelling, and data architecture. Committed to leveraging data for informed decision-making. Open to opportunities at the intersection of data entry and engineering.</h3>
 
-- 🔭 I’m currently working on **ETL pipeline(csv,excel,database))**
+- 🔭 I’m currently working on **ETL pipeline(csv,excel,database)**
 
 - 🌱 I’m currently learning **APACHE SPARK**
 
